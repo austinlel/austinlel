@@ -19,8 +19,8 @@
 - 🎯 Currently diving deep into React and exploring Go for backend development
 
 ### Contact
-- GitHub: [@austinlel](https://github.com/austinlel)
-- Email: austinxd@cocaine.ninja
+- GitHub: [@YourUsername](https://github.com/YourUsername)
+- Email: your.email@example.com
 
 ---
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
