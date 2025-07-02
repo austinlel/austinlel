@@ -20,7 +20,7 @@
 
 ### Contact
 - GitHub: [@austinlel](https://github.com/austinlel)
-- Email: austinxd@cocaine.ninja
+- Email: austinchart6@gmail.com
 
 ---
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
